@@ -1,13 +1,13 @@
-package california.gun;
+package california.surf.gun;
 
 import java.awt.geom.Point2D;
 import java.util.Vector;
 import java.util.function.Supplier;
 
-import california.RobotBase;
-import california.util.GameUtils;
-import california.util.RegressionTree;
-import california.util.Wave;
+import california.surf.RobotBase;
+import california.surf.util.GameUtils;
+import california.surf.util.RegressionTree;
+import california.surf.util.Wave;
 import robocode.BulletHitBulletEvent;
 import robocode.ScannedRobotEvent;
 import robocode.util.Utils;

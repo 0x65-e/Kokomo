@@ -1,11 +1,11 @@
-package california.gun;
+package california.surf.gun;
 
 import java.awt.geom.*;
 import java.util.Vector;
 
-import california.RobotBase;
-import california.util.GameUtils;
-import california.util.Wave;
+import california.surf.RobotBase;
+import california.surf.util.GameUtils;
+import california.surf.util.Wave;
 import robocode.*;
 import robocode.util.Utils;
 

@@ -1,4 +1,4 @@
-package california.util;
+package california.surf.util;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;

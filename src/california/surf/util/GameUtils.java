@@ -1,4 +1,4 @@
-package california.util;
+package california.surf.util;
 
 import java.awt.geom.Point2D;
 import java.util.Random;

@@ -1,4 +1,4 @@
-package california;
+package california.surf;
 
 import java.awt.geom.Point2D;
 

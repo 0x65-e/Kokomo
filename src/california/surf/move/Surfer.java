@@ -1,12 +1,12 @@
-package california.move;
+package california.surf.move;
 
 import java.awt.geom.Point2D;
 import java.awt.geom.Rectangle2D;
 import java.util.ArrayList;
 
-import california.RobotBase;
-import california.util.GameUtils;
-import california.util.Wave;
+import california.surf.RobotBase;
+import california.surf.util.GameUtils;
+import california.surf.util.Wave;
 import robocode.AdvancedRobot;
 import robocode.BulletHitBulletEvent;
 import robocode.HitByBulletEvent;

@@ -1,11 +1,11 @@
-package california;
+package california.surf;
 
 import java.awt.Color;
 import java.awt.geom.Point2D;
 
-import california.gun.DSVCSGun;
-import california.gun.SSVCSGun;
-import california.move.Surfer;
+import california.surf.gun.DSVCSGun;
+import california.surf.gun.SSVCSGun;
+import california.surf.move.Surfer;
 import robocode.BulletHitBulletEvent;
 import robocode.HitByBulletEvent;
 import robocode.ScannedRobotEvent;
