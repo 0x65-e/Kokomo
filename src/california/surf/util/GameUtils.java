@@ -3,6 +3,11 @@ package california.surf.util;
 import java.awt.geom.Point2D;
 import java.util.Random;
 
+/**
+ * Useful utilities that can be used across classes. Inspired by various champion bots in the RoboRumble.
+ * @author CaliforniaCraig
+ *
+ */
 public class GameUtils {
 
 	public static double bulletVelocity(double power) {

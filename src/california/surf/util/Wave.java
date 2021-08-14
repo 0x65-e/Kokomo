@@ -4,6 +4,12 @@ import java.awt.geom.Point2D;
 
 import robocode.util.Utils;
 
+/**
+ * Unified enemy and allied bot Wave class, built off of GuessFactor Targeting and Wave Surfing tutorials but simplified for both gun and movement implementations
+ * 
+ * @author CaliforniaCraig
+ *
+ */
 public class Wave {
 	public Point2D.Double fireLocation;
 	public long fireTime;

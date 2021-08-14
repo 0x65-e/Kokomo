@@ -13,6 +13,14 @@ import robocode.HitByBulletEvent;
 import robocode.ScannedRobotEvent;
 import robocode.util.Utils;
 
+/**
+ * Basic Wave-surfing implementation using statically segmented visit count statistics for profile.
+ * Based on "Wave Surfing Tutorial" from robowiki, with modification and improvements
+ * https://robowiki.net/wiki/Wave_Surfing_Tutorial
+ * 
+ * @author CaliforniaCraig
+ *
+ */
 public class Surfer {
 	
 	private RobotBase _robot;

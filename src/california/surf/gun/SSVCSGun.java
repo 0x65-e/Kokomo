@@ -9,6 +9,14 @@ import california.surf.util.Wave;
 import robocode.*;
 import robocode.util.Utils;
 
+/**
+ * Statically Segmented Visit Count Statistics Gun
+ * Based on "GuessFactor Targetting Tutorial" from robowiki, with improvements made
+ * https://robowiki.net/wiki/GuessFactor_Targeting_Tutorial
+ * 
+ * @author CaliforniaCraig
+ *
+ */
 public class SSVCSGun {
 	
 	Vector<Wave> waves = new Vector<>();

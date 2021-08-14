@@ -4,6 +4,12 @@ import java.util.Comparator;
 import java.util.PriorityQueue;
 import java.util.function.Supplier;
 
+/**
+ * Parameterized classification/regression tree implementation in Java
+ * @author CaliforniaCraig
+ *
+ * @param <T> Value or class of a data point
+ */
 public class RegressionTree<T extends Supplier<Double>> {
 	/**
 	 * Internal nodes used to hold data and determine feature splits

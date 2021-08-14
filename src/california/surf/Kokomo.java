@@ -11,6 +11,11 @@ import robocode.HitByBulletEvent;
 import robocode.ScannedRobotEvent;
 import robocode.util.Utils;
 
+/**
+ * A Wave-surfing bot that uses GuessFactors with Dynamic Segmentation (using a regression tree) for shooting
+ * @author CaliforniaCraig
+ *
+ */
 public class Kokomo extends RobotBase {
 	
 	private DSVCSGun _gun;

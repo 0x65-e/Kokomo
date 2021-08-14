@@ -12,6 +12,11 @@ import robocode.BulletHitBulletEvent;
 import robocode.ScannedRobotEvent;
 import robocode.util.Utils;
 
+/**
+ * Dynamically Segmented Visit Count Statics gun
+ * @author CaliforniaCraig
+ *
+ */
 public class DSVCSGun {
 	
 	Vector<Wave> waves = new Vector<>();
